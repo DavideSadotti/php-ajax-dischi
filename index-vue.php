@@ -1,6 +1,4 @@
-<?php 
-  include  __DIR__ . '/partials/template/header.php';
-?>
+<?php include  __DIR__ . '/partials/template/header.php'; ?>
  
     <!-- CORPO DELLA PAGINA -->
     <main>
